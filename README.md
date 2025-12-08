@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @gerekerah-2016
-- 👀 I’m interested in ...networking and security 
-- 🌱 I’m currently learning ...CSE
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ...NLP
+- 🌱 I’m currently learning ...Master in CS
 
 <!---
 gerekerah-2016/gerekerah-2016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
