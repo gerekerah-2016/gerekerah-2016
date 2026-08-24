@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @gerekerah-2016
-- 👀 I’m interested in ...NLP
-- 🌱 I’m currently learning ...Master in CS
+- 👋 Hi, I’m Gebreslassie Teklu Reda
+- 👀 I’m interested in NLP Systems
+- 🌱 I’m currently Master student in Computer science and research assistant at Ben Gurion University of the Negev 
 
-<!---
-gerekerah-2016/gerekerah-2016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
